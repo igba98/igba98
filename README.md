@@ -17,7 +17,7 @@ I'm a developer and designer based in Tanzania who loves treating the web as a c
 * 💬 **Ask me about:** UI/UX best practices, modern web frameworks, or my favorite Swahili cooking recipes.
 * ⚡ **Fun fact:** I have mastered the highly specific art of debugging complex code while actively cooking.
 
-[https://workwithignas.com/]
+https://workwithignas.com/
 
 📫 **Let's connect:** [Ignasbangi255@gmail.com](mailto:Ignasbangi255@gmail.com)
 
